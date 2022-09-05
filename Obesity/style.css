@@ -1,0 +1,94 @@
+.parent {
+  background-color: #30363d;
+  display: flex;
+}
+
+.part-0 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.heading-main {
+  margin-bottom: 0%;
+  color: rgb(226, 77, 77);
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.heading-sub {
+  margin: 0%;
+  color: white;
+  font-weight: bold;
+}
+.heading-icon {
+  background-color: rgb(45, 181, 245);
+  padding: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 50%;
+}
+
+.part-1 {
+  margin: 10px;
+}
+
+#background-1 {
+  background-color: rgb(255, 158, 21);
+  text-align: center;
+  color: white;
+  padding: 5px;
+}
+#background-2 {
+  background-color: rgb(33, 184, 243);
+  text-align: center;
+  color: white;
+}
+
+.part-2 {
+  color: white;
+}
+
+#part2-background {
+  background-color: rgb(255, 101, 96);
+}
+
+.font-1 {
+  letter-spacing: 20px;
+}
+
+.font-2 {
+  word-spacing: 20px;
+}
+
+.part-3 {
+  background-color: rgb(45, 181, 245);
+  margin: 10px;
+  color: white;
+}
+
+#background-p4-1 {
+  background-color: rgb(255, 101, 96);
+}
+
+#background-p4-2 {
+  background-color: rgb(255, 158, 21);
+}
+
+.part-5 {
+  background-color: rgb(45, 181, 245);
+  margin: 10px;
+}
+
+.part-6 {
+  background-color: rgb(255, 158, 21);
+  margin: 10px;
+}
+
+#background-p7-1 {
+  background-color: rgb(45, 181, 245);
+}
+
+#background-p7-2 {
+  background-color: rgb(255, 101, 96);
+}
